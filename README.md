@@ -1,29 +1,26 @@
-Learning Outcomes
+# NxGV Secondary School STEM Module
 
-By the end of this module, students should be able to:
+Welcome to the Next Generation Vehicle (NxGV) STEM Program.
 
-1. Identify the main hardware components of an autonomous vehicle.
-2. Explain the function of each component.
-3. Connect sensors and actuators to the controller correctly.
-4. Perform basic hardware testing and troubleshooting.
+## Learning Path
 
-Topics
-1. What is an Autonomous Vehicle?
-  Autonomous vehicle concept
-  Perception → Decision → Action
-  Real-world applications
+1. Hardware Introduction
+2. Motor Control
+3. Steering Control
+4. Line Following and Tuning
+5. Obstacle Avoidance
+6. Competition
 
-3. Main Hardware Components
-Controller
-ESP32 / Arduino
-Functions as the "brain" of the vehicle
-Actuators
-DC motor
-Motor driver
-Servo steering
-Sensors
-IR line sensors
-Ultrasonic sensor
-Power System
-Battery
-Voltage supply
+## Required Hardware
+
+- ESP32
+- L298N Motor Driver
+- DC Motor
+- Servo Motor
+- 5 IR Sensors
+- HC-SR04 Ultrasonic Sensor
+- Battery Pack
+
+## Getting Started
+
+Proceed to Module 1.
